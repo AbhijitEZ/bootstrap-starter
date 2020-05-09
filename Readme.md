@@ -1,4 +1,4 @@
-# Bootstrap Starts
+# Bootstrap Starter
 
 ## Modules
 
